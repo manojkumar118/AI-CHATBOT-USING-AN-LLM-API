@@ -1,0 +1,6 @@
+{
+  "name": "AURA AI — Intelligence That Moves With You",
+  "description": "A next-generation conversational AI platform powered by modern LLMs with real-time streaming, persistent memory, and multimodal intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
